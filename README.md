@@ -1,4 +1,4 @@
-tealeaf
+Tealeaf
 =======
 
 TeaLeaf exercises
